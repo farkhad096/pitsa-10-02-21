@@ -1,0 +1,23 @@
+@font-face{
+    font-family: 'montserrat';
+    font-weight: 400;
+    src: url('../fonts/montserrat.ttf');
+}
+
+@font-face{
+    font-family: 'bold';
+    font-weight: 600;
+    src: url('../fonts/bold.ttf');
+
+}
+
+@font-face{
+    font-family: 'black';
+    font-weight: 700;
+    src: url('../fonts/blak.ttf');
+}
+
+
+
+
+
