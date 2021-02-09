@@ -216,3 +216,32 @@
    padding: 20px 10px;
 } 
     
+.content-list h3{
+        font-size: 18px;
+        color: var(--gray);
+        font-family: 'black';
+        font-weight: 700;
+        text-transform: uppercase;
+        padding-top: 30px;
+
+}
+.content-list p{
+    color: var(--gray);
+    font-size: 16px;
+    font-family: 'montserrat';
+    font-family: 400;
+    letter-spacing: 0.5px;
+    line-height: 24px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
